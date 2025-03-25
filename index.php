@@ -66,8 +66,8 @@ require_once('components/header.php');
                         <i class="fas fa-globe text-2xl text-blue-600 group-hover:text-white"></i>
                     </div>
                     <h3 class="mt-6 text-xl font-semibold text-gray-900">Multi-Currency Support</h3>
-                    <p class="mt-4 text-gray-600 leading-relaxed">Process transactions seamlessly in over 130
-                        currencies. Real-time exchange rates and automated currency conversion.</p>
+                    <p class="mt-4 text-gray-600 leading-relaxed"> Real-time exchange rates and automated currency
+                        conversion.</p>
                     <a href="#" class="mt-6 inline-flex items-center text-blue-600 hover:text-blue-700">
                         Learn more <i class="fas fa-arrow-right ml-2"></i>
                     </a>
